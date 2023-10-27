@@ -14,4 +14,5 @@ $db = ADONewConnection("mysqli");
 
 $conex = $db->Connect($conServidor, $conUsuario, $conClave, $conBasededatos);
 $db->Execute("SET NAMES 'utf8'");
+
 ?>

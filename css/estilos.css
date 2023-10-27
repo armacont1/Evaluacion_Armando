@@ -1,0 +1,107 @@
+body {
+	/*background-color: #2c2929;*/
+	background-color:green;
+}
+
+.banner{
+	font-size: 40px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.formu_ingreso{
+	width: 200px;
+	height: 280px;
+	background-color: red;
+	position: relative;
+	top: 80px;
+	left: 40%;
+	padding: 10px;
+	border: solid 5px;
+	border-radius: 20px; 
+}
+input {
+  border-radius: 10px;
+  background-color: #a9a9b5;
+}
+.boton{
+	border: solid 2px;
+	border-radius: 20px; 
+	font-weight: bold;
+	margin-left: 40%;
+}
+
+h1 {
+	font-size: 20px;
+	color: white;
+  font-family: arial;  
+  text-align: center;
+}
+
+/*estilo para el menu*/
+a {
+  color:#fff;
+  text-decoration:none;
+  padding:10px 12px;
+  line-height: 30px;
+}
+a:hover {
+  background-color:red;
+  color: white;
+}		
+
+.menu{
+	border: solid red;
+	width: 30%;
+	text-align: justify;
+	position: relative;
+	top: 15px;
+	left: 30%;
+}
+
+.listado table {
+	width:auto;
+  border: 1px solid #000000;
+}
+.listado th {
+	font-size: 16px;	
+	color: #FFFFFF;
+	background: red;
+	border: 1px solid #000000;
+}
+.listado td {
+	font-size: 14px;
+  border: 1px solid #000000;	
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.mensaje{
+  width: 450px;
+	height: 250px;
+	border: 0px solid #000000;
+	position: relative;
+	top: 150px;
+	left: 40%;
+	text-align: center;
+}
+h3{
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: Tahoma;
+	text-align: right;
+}
+
+/*a {
+	text-decoration: none;/*para quitar el subrayado de los enlaces*/
+	/*color: #000000; /*negro de la letra*/
+	/*font-family: Times New Roman;
+	font-size: 12pt;
+	font-weight: bold;
+/*}
+a:hover {
+	background:  #191970;
+	color: white;
+	text-decoration: underline;
+	box-shadow: -2px 2px 5px #000; /*para la sombra de la cajita*/
+	/*font-family: Tahoma;
+/*}*/
