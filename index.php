@@ -15,7 +15,9 @@
         <p><h2>Clave:</h2><input type="password" name="password" size="11" value="" ></p>  
 
         <input type="submit" name="accion" value="Ingresar" size="5" class="boton">
-        
+
+
+        <input type="BOTON DE INGRESAR" name="accion" value="Ingresar" size="5" class="boton">
        </div> 
     </form>  
   </body>
